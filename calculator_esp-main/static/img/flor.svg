@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hoja 1 -->
+  <path d="M100 30 C60 60, 40 100, 100 130 C160 100, 140 60, 100 30 Z" fill="green" />
+  
+  <!-- Hoja 2 (diagonal) -->
+  <path d="M70 130 C30 160, 10 200, 70 230 C130 200, 110 160, 70 130 Z" fill="green" />
+</svg>
